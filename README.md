@@ -32,7 +32,7 @@ https://xjserver.site:8000
 4、分为基础控件和布局控件、调整表单布局
 
 ### 后端API地址
-http://xjserver.site:4000  在云服务器上起的node服务 项目地址 /server/serverDemo
+http://xjserver.site:4000  在云服务器上起的node服务 项目地址 /server/serverDemo<br/>
 https://xjserver.site:9000  使用nginx配置的转发，支持https转发到http
 
 
