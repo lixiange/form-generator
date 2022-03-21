@@ -1,0 +1,37 @@
+{
+  "id": "1695783",
+  "name": "management system",
+  "font_family": "management system",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2344687",
+      "name": "banner...",
+      "font_class": "banner",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "10945535",
+      "name": "banner",
+      "font_class": "banner1",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "15690200",
+      "name": "banner",
+      "font_class": "banner2",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "9192784",
+      "name": "Banner",
+      "font_class": "Group",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    }
+  ]
+}
